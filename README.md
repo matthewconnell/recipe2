@@ -2,4 +2,4 @@
 
 Last line changed locally
 
-Line 2 changed remotely
+Line 2 changed remote-ly
